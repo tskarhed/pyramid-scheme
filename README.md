@@ -4,7 +4,7 @@ Pyramid scheme as a social/economical experiment, based on fake money. Should al
 
 ## Idea
 
-Let's introduce a fake currency `jaja (Я)`, from the famous Icelandic song ["Jaja Ding Dong"](https://www.youtube.com/watch?v=7anGdjnklEo).
+Let's introduce a fake currency `jaja (ЯЯ)`, from the famous Icelandic song ["Jaja Ding Dong"](https://www.youtube.com/watch?v=7anGdjnklEo).
 
 You get to join the pyramid scheme via an invite, and a cost of `10 jajas`. You earn `jajas` by inviting new members, from which you get a 50% (?)(Requires you to recruit 2 to break even) cut.
 
